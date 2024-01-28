@@ -1,5 +1,5 @@
 # ForestFirePrevention
-ForestFirePrev: Innovative surveillance and analysis project for forest fire prevention and ecological preservation. Utilizing cameras, drones, and machine learning for early detection. #Environment #FirePrevention
+ForestFirePrev: Innovative surveillance and analysis project for forest fire prevention and ecological preservation. Utilizing cameras, drones, and machine learning for early detection of fire. #Environment #FirePrevention
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
